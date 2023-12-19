@@ -35,7 +35,7 @@ Durante o primeiro módulo da trilha de especialização em React.js é desenvol
 
 Nos links abaixo você encontra o layout do projeto web e mobile. Lembrando que você precisa ter uma conta no [Figma](http://figma.com/) para acessá-lo.
 
-- [Layout Figma](https://github.com/brunogallotte/ignite-feed)
+- [Layout Figma](https://www.figma.com/community/file/1113573231685349036/ignite-feed)
 - [Vercel](https://ignite-feed-nine-khaki.vercel.app/)
 
 ## :memo: Licença
