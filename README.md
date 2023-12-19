@@ -17,10 +17,6 @@
 
 <br>
 
-<p align="center">
-  <img alt="Happy" src="./src/assets/preview.png" width="100%">
-</p>
-
 ## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com a seguinte tecnologia:
